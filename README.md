@@ -1,7 +1,7 @@
-Mustard-Mine - Twitch Go-Live assistant
+Mustard-Mine - Twitch Go-Live Assistant
 =======================================
 
-    The more work there is of mine, the less there is of yours.
+    The more work is there of mine, the less there is of yours.
     -- The Duchess (attrib)
 
 Source code for https://mustard-mine.herokuapp.com/ and also available for
@@ -33,7 +33,7 @@ TODO:
     the link? Could be handy for a few channels.
     - The link itself is part of send_tweet()'s return value, fwiw.
     - Could become another of the defaults in the twitter_cfg dialog.
-* Get someone on a Mac to test things in Safari
+* Get someone on a Mac to test things in Safari.
   - The <dialog> tag isn't officially supported. Is my monkeypatch enough?
   - What should the Twitter MLE react to for "send now"? Ctrl-Enter okay?
 * Can it be made so mods can be given permission to select a pre-built
